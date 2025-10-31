@@ -1,0 +1,9 @@
+{
+  "appId": "com.educaflow.app",
+  "appName": "EducaFlow",
+  "webDir": ".",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
